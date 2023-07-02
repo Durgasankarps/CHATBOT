@@ -1,7 +1,7 @@
 First go through the requirements.txt then come here
 
 ⚠️
-DONOT SHARE THE API KEY associated witht the code
+use the api key submitted in the form
 
 1. Execution
 

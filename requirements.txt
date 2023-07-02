@@ -1,0 +1,16 @@
+Requirements:
+any web browser (chrome, firebox etc..)
+Python v 11
+IDE - visual studio code, etc.. with openai and gradio installed
+
+to install use the following commands
+1. open ai
+$ pip install openai 
+or
+$ pip3 install openai
+
+2. gradio
+$ pip install gradio
+or
+$ pip3 install gradio
+

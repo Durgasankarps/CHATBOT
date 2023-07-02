@@ -7,7 +7,7 @@ DONOT SHARE THE API KEY associated witht the code
 
 run the app.py file 
 copy paste the generated localhost url in a web brower
-there will be 2 links generated,  one for localhost and other a sharable link which will be valid for 72 hours
+there will be two URLs generated,  one for LOCALHOST and other a sharable URL which will be valid for 72 hours
 make sure to create change the path of flagging_directory = "SOMEHWERE LOCAL" (example: flagging_directory = r"c:\Users\durga\Desktop\task\gradio")
 
 ____________________________________________________________
